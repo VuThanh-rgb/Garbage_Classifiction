@@ -19,10 +19,10 @@ Garbage-Classification/
 
 ## Các thành phần chính
 
-- `App.py`: Chương trình giao diện demo, cho phép người dùng đưa hình ảnh vào để thực hiện phân loại.
-- `Garbage Classification.ipynb`: Notebook chứa quá trình xử lý dữ liệu, xây dựng, huấn luyện và đánh giá mô hình.
-- `best_model_v3_1.pth`: File trọng số của mô hình sau khi huấn luyện, được sử dụng trong ứng dụng demo.
-- `requirements.txt`: Danh sách các thư viện cần thiết để chạy project.
++ `App.py`: Chương trình giao diện demo, cho phép người dùng đưa hình ảnh vào để thực hiện phân loại.
++ `Garbage Classification.ipynb`: Notebook chứa quá trình xử lý dữ liệu, xây dựng, huấn luyện và đánh giá mô hình.
++ `best_model_v3_1.pth`: File trọng số của mô hình sau khi huấn luyện, được sử dụng trong ứng dụng demo.
++ `requirements.txt`: Danh sách các thư viện cần thiết để chạy project.
 
 ## Cài đặt
 
